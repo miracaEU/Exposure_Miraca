@@ -1,2 +1,3 @@
 **/*.pyc
 book/cache/
+tmp_cache/
