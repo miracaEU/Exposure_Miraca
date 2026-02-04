@@ -6,15 +6,16 @@ Other sources of data come from international organisations and research institu
 
 Within MIRACA, the main aim is to provide a framework to support the assessment of the impacts of cliamte change and adaptation on a consistently way at the Pan-European level. In order to have the same level of detail and granularity across countries, while ensuring there is completeness for all critical infrastructure assets, we have retrieved critical infrastructure data from OpenStreetMap (OSM).
 
-## OpenStreetMap (OSM) 
+## OpenStreetMap (OSM)
 
 OpenStreetMap is a globally collaborative geographic database that is free to access created by a community of mappers,
 
 ## Accessing and downloading OSM data
+
 OSMnx is a Python package to easily download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
 
-![Screenshot](../flowchart.png)
-
+![Screenshot](figures/flowchart.png)
 
 ## References
+
 Boeing, G. (2025). Modeling and Analyzing Urban Networks and Amenities with OSMnx. Geographical Analysis, published online ahead of print. doi:10.1111/gean.70009
